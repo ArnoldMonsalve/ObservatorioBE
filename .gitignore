@@ -1,0 +1,25 @@
+# NuGet Packages
+packages/*
+*.nupkg
+
+helpdesk_be/obj
+
+# Build results
+/helpdesk_be/[Dd]ebug/
+/helpdesk_be/[Dd]ebugPublic/
+/helpdesk_be/[Rr]elease/
+/helpdesk_be/[Rr]eleases/
+/helpdesk_be/x64/
+/helpdesk_be/build/
+/.vs/
+/helpdesk_be/bld/
+/helpdesk_be/[Bb]in/
+/helpdesk_be/[Oo]bj/
+/helpdesk_be/obj
+/.vs
+/helpdesk_be/Temporal/@8111515450transfor.png
+/helpdesk_be/Temporal/@7342434218isotipo.rar
+/helpdesk_be/Temporal/@60447agregar-adjunto.svg
+/helpdesk_be/Temporal/@48590quiz_black_24dp.svg
+/helpdesk_be/Temporal/@3789515450transfor.png
+/helpdesk_be/Temporal/@18942quiz_black_24dp.svg
